@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+}
+
+#tabel-siswa {
+    border-collapse: collapse;
+    background-image: url(https://images.unsplash.com/photo-1679859229899-b89913461269?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+
+    margin: auto;
+    padding: 20px;
+}
+
+#tabel-siswa {
+    font-size: 32px;
+}
+
+.link {
+    color: red;
+    text-decoration: none;
+}
